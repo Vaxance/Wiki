@@ -1,10 +1,3 @@
----
-group: Markdown
-tags:
-  - Elemente
-Autor: Florian A.
----
-
 Die folgenden Elemente sollten von jedem System unterstützt werden.
 
 | Element           | Markdown Syntax                                   | Link für mehr Details                                                      |
