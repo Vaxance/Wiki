@@ -12,6 +12,7 @@ Die folgenden Elemente sollten von jedem System unterstützt werden.
 | Trennlinien       | *** oder<br>--- oder<br>___                       | [Mehr Infos](https://www.markdownguide.org/basic-syntax/#horizontal-rules) |
 | Links             | in [] Den Anzeigenamen in () den Link dahinter    | [Mehr Infos](https://www.markdownguide.org/basic-syntax/#links)            |
 | Bilder            | in [] den Anzeigetext in () den relationalen Pfad | [Mehr Infos](https://www.markdownguide.org/basic-syntax/#images-1)         |
+
 *Basierend auf [Quelle](https://www.markdownguide.org/cheat-sheet/#basic-syntax)*
 
 

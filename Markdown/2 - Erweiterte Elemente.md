@@ -14,5 +14,6 @@ Zum Schreiben dieses Wikis wird aktuell Obsidian verwendet.
 | Hervorhebung     | == vor und nach dem Wort                                                      | [Mehr Infos](https://www.markdownguide.org/extended-syntax/#highlight)        | ✔        |
 | Unterzahl        | H~2~O                                                                         | [Mehr Infos](https://www.markdownguide.org/extended-syntax/#subscript)        | ❌        |
 | Oberzahl         | X^2^                                                                          | [Mehr Infos](https://www.markdownguide.org/extended-syntax/#superscript)      | ❌        |
+
 *Basierend auf [Quelle](https://www.markdownguide.org/cheat-sheet/#extended-syntax)*
 
