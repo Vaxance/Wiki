@@ -1,3 +1,11 @@
+---
+group: Markdown
+tags:
+  - Elemente
+Autor: Florian A.
+Erstellt am: 2024-09-24
+Aktualisiert am: 2024-09-24
+---
 Hier bei hängt vom Anzeigenden System ab ob diese Elemente so genutzt werden können.
 Zum Schreiben dieses Wikis wird aktuell Obsidian verwendet.
 
