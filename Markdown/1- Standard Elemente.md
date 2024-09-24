@@ -3,8 +3,6 @@ group: Markdown
 tags:
   - Elemente
 Autor: Florian A.
-Erstellt am: 24.09.2024
-Aktualisiert am: 24.09.2024
 ---
 
 Die folgenden Elemente sollten von jedem System unterstützt werden.

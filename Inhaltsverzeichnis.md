@@ -1,8 +1,10 @@
 # Inhalte
 ```dataviewjs
 var pages = dv.pages('"Markdown"');
+var groups = []
 
-for (let group of pages.groupBy(p => p.group)){
-	dv.header(group)
+
+for (let page of pages){
+	if (groups.contains(page.))
 }
 ```
